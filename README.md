@@ -1,5 +1,5 @@
 # Car Wiper Control System
-# Introduction 
+# Introduction
 Wiper is an essential component that used to wipe the raindrops or any water from the windscreen. Wipers are designed
 and made to clear the water from a windscreen. Most of cars have two wipers on the windscreen, one on the rear window and the other on each headlight. The wiper parts visible from outside the car are the rubber blade, the wiper arm holding the blade, a spring linkage, and parts of the wiper pivots.
 
@@ -24,7 +24,21 @@ The Block diagram of an Embedded System is given by
 
 ![](https://microcontrollerslab.com/wp-content/uploads/2017/06/basic-building-blocks-of-embedded-system.jpg)
 # Description
-All automotive industries seek to provide low cost system for all the applications including automatic wiper system in vehicle. In recent time automotive industries focusing on autonomous vehicle which means self-drive system on different applications. For this scenario, this paper offers low Cost wiper system with simple and effective concept of electro mechanical concept to wipe the windscreen automatically. Automatic wiping has been done during rainfall without human interrupt. Thus an uninterrupted makes to avoid distraction of the drive and secure from accidents. Nowadays vehicles are more automated whereas the cost of the embedded system used for different critical applications are too high. Basically, increase in technology will enhance the vehicle cost. This criterion makes to develop low cost automatic wiper system. The wiper system has been implemented to forecast in all low cost vehicles. In the current scenario, only luxury vehicles employ intelligent rain sensing wind shield Wiper systems. Our system is modelled to demonstrate how useful is an automatic wiper system that adjusts speed itself based on rainfall intensity. Such a system improves the safety of a ride. An automatic, intelligent system like ours removes any manual errors. Our system adjusts wiper speed according to the intensity of rainfall and hence improves the safety.
+All automotive industries seek to provide low cost system for all the applications including automatic wiper system in vehicle. In recent time automotive industries focusing on autonomous vehicle which means self-drive system on different applications. For this scenario, this paper offers low Cost wiper system with simple and effective concept of electro mechanical concept to wipe the windscreen automatically. Automatic wiping has been done during rainfall without human interrupt. Thus an uninterrupted makes to avoid distraction of the drive and secure from accidents. Nowadays vehicles are more automated whereas the cost of the embedded system used for different critical applications are too high. 
+
+Wipers are designed and manufactured to remove water from a windshield. Most automobiles feature two windshield wipers, as well as one on the back window and one on each headlight. The rubber blade, the wiper arm that holds the blade, a spring linkage, and portions of the wiper pivots are all visible from the exterior of the automobile. Under the wiper, there are up to six pieces called pressure points or claws, which are little arms. The claws spread the wiper's pressure along the blade's back. The wiper is the beam, and the claws are the suspension components, therefore this is a balancing beam with a suspension system. The claws keep the blade flexed against the windshield, distributing uniform pressure across the blade to clean the glass evenly. Large or strongly curved windshields benefit from more claws because they effectively disperse pressure.
+
+# Explanation
+This Wiper Speed Control System is utilised in all sorts of automobiles, and its primary function is to remove rain air drops from the vehicle's front screen. Because driving a vehicle in the rain is quite difficult, we will use wipers to clear the front screen of the vehicle, which is a mirror, so that we may drive the vehicle even in the rain.
+
+## WORKING PROCESS
+* When the button is pressed ONCE, the car will be on ACC mode.
+
+* When the button is pressed TWICE, the car will be on Ignition mode.
+
+* When the button is pressed THREE times, wiper turn on.
+
+* When the button is pressed FOUR times, wiper turn off.
 
 # Define System
 The basic wiper control system design is given by,
