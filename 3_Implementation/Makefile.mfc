@@ -1,0 +1,11 @@
+[CONFIG]
+AppType=1
+ProgLang=0
+OptmMinSize=1
+OptmShowWar=1
+OptmSpeed=1
+Libraries=$(DEFAULTLIB)
+Includes=$(DEFAULTINC)
+Others=
+Target=Project2.exe
+Compiler=0
