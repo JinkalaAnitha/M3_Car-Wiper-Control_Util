@@ -50,17 +50,17 @@ The SWOT Analysis is given by
 * HOW  : It was developed and implemented  using STM32F4 Microcontroller.          
 # Detail Requirements
 ## High Level Requirements
-|ID    |Component|Description  |
-|------|-------------|---------|
-|HLR01|LED |to represent the operation of Microcobtroller |  
-|HLR02|Timer|For Setting Delay|
-|HLR03|Power Supply|The power supply make the working f hardware |
-|HLR04|Frequency|Come on and OFF alternately for set frequency in HZ|
-|HLR05|Switch|To make on and off Conditions|
+|ID    |Component|Description  |Status|
+|------|-------------|---------|------|
+|HLR_01|LED |to represent the operation of Microcobtroller |Implemented|  
+|HLR_02|Timer|For Setting Delay|Implemented|
+|HLR_03|Power Supply|The power supply make the working f hardware |Implemented|
+|HLR_04|Frequency|Come on and OFF alternately for set frequency in HZ|Implemented|
+|HLR_05|Switch|To make on and off Conditions|Implemented|
 
 ## Low Level Requirements
-|ID    |Component         |Description       |
-|------|------------------|------------------|
-|LLR01 |Regulator         |Regulate the power supply to protect hardware circuit|
-|LLR02|ACC  Key           | The Red LED should be On|
-|LLR03|Lock Key           |The Red LED Should be Off|
+|ID    |Component         |Description       |Status|
+|------|------------------|------------------|------|
+|LLR_01 |Regulator         |Regulate the power supply to protect hardware circuit|Implemented|
+|LLR_02|ACC  Key           | The Red LED should be On|Implemented|
+|LLR_03|Lock Key           |The Red LED Should be Off|Implemented|
