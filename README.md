@@ -97,22 +97,13 @@ A power supply is an electrical device that supplies electric power to an electr
 
 [![CI](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Contribution%20Check-Git%20Inspector.yml/badge.svg)](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Contribution%20Check-Git%20Inspector.yml)
 
-[![CPPCHECK](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/CPPCHECK.yml/badge.svg)](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/CPPCHECK.yml)
 
 [![Code Quality](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Code%20Quality.yml/badge.svg)](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Code%20Quality.yml)
 
-[![Compile](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Compile.yml/badge.svg)](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Compile.yml)
 
-[![Cpp Check](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Cpp%20Check.yml/badge.svg)](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Cpp%20Check.yml)
+![Codiga Badge](https://app.codiga.io/hub/user/github/JinkalaAnitha)
 
-[![Dynamic](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Dynamic.yml/badge.svg)](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Dynamic.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2460daf820a9478999661b36ae37579f)](https://www.codacy.com/gh/JinkalaAnitha/M3_Car-Wiper-Control_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JinkalaAnitha/M3_Car-Wiper-Control_Util&amp;utm_campaign=Badge_Grade)
 
-[![Main](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Main.yml/badge.svg)](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Main.yml)
+![Codiga Badge_page-0001](https://user-images.githubusercontent.com/101356849/168427310-2123cef9-067f-4098-b4d7-be28aeeabec8.jpg)
 
-[![Static](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Static.yml/badge.svg)](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Static.yml)
-
-[![Valgrind](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Valgrind.yml)
-
-[![Contribution Check-Git Inspector](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Contribution%20Check-Git%20Inspector.yml/badge.svg)](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Contribution%20Check-Git%20Inspector.yml)
-
-[![Contribution Check - Git Inspector](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Contribution%20Check%20-%20Git%20Inspector.yml/badge.svg)](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Contribution%20Check%20-%20Git%20Inspector.yml)
