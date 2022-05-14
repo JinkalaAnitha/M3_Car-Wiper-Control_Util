@@ -11,14 +11,32 @@ This Wiper Speed Control System is utilised in all sorts of automobiles, and its
 
 
 # WORKING PROCESS
-* When the button is pressed ONCE, the car will be on ACC mode.
 
-* When the button is pressed TWICE, the car will be on Ignition mode.
-
+ * The RED LED is considered for the ACC position. Once the push button is pressed for 2 seconds, the RED LED keeps continuously glowing until the stop of the engine signifying the engine condition to be turned ON.
+          
+* When the button is pressed TWICE, the car will be on Ignition.On press of the user input push button, the other three Blue, Green and Orange LEDs come ON one at a time with the set frequency. The frequency changes on every alternate key press, 3 frequency levels with 1, 4 and 8 Hz.
 * When the button is pressed THREE times, wiper turn on.
+* The LED glow pattern stops on the 4th press; the wiper action starts with the next press.
+* If the push button is pressed for 2 seconds continuously, the RED light goes off and the pattern stops bringing it to default position which signifies the engine is turned OFF.
+## REQUIREMENTS FOR THE PROJECT
 
-* When the button is pressed FOUR times, wiper turn off.
+## STM32Cube IDE
 
+* STM32Cube software ecosystem. STM32CubeIDE is an advanced C/C++ development platform with peripheral configuration, code generation, code compilation, and debug features for STM32 microcontrollers and microprocessors. It is based on the Eclipse®/CDT™ framework and GCC toolchain for the development, and GDB for the debugging. It allows the integration of the hundreds of existing plugins that complete the features of the Eclipse® IDE
+
+## Xpack Packages
+
+## Windows Build Tools
+
+* The xPack Windows Build Tools is a standalone Windows binary distribution of GNU make and a few of other tools required by the Eclipse Embedded CDT (formerly GNU MCU/ARM Eclipse) project, but the binaries can also be used in generic build environments.
+
+## OpenOCD
+
+* Open On-Chip Debugger (OpenOCD) is a free, open-source project that aims to provide debugging, in-system programming, and boundary scan using a debug adapter. The adapter is a hardware module that provides the right signals for the target to understand.
+
+## QEMU
+
+The xPack QEMU Arm is a standalone cross-platform binary distribution of QEMU, with several extensions for Arm Cortex-M devices.
 # SWOT Analysis
 The SWOT Analysis is given by
 
@@ -64,3 +82,24 @@ The SWOT Analysis is given by
 |LLR_01 |Regulator         |Regulate the power supply to protect hardware circuit|Implemented|
 |LLR_02|ACC  Key           | The Red LED should be On|Implemented|
 |LLR_03|Lock Key           |The Red LED Should be Off|Implemented|
+
+## ADVANTAGES
+
+*   Low cost automation project.
+*   Free from wear adjustment.
+*   Less power consumption.
+*   Operating principle is very easy Installation is simple.
+*   It is possible to operate manually/automatically by providing On/Off switch
+
+## DISADVANTAGES
+
+*   The rain sensor based system functions when water falls on the sensor directly.
+*   The cost of overall system increases as additional components are needed along with rain sensor.
+*   In order to avoid false detection of rain, it requires rain sensors to take decision after few minutes
+
+## APPLICATIONS
+
+*   used to remove rain, snow, ice, washer fluid, water, and/or debris from a vehicle's front window. Almost all motor vehicles, including cars, trucks, buses, train locomotives, and watercraft with a cabin—and some aircraft—are equipped with one or more such wipers, which are usually a legal requirement.
+
+
+
