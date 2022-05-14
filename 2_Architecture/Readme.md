@@ -1,6 +1,12 @@
 # The architecture of Car Wiper Control System
 The Basic architecture of Car Wiper Control System based on the STM32 microconroller and corresponding three LED's they are RED,GREEN and Blue.
 
+## BLOCK DIAGRAM
+
+
+![blockdiagram](https://user-images.githubusercontent.com/89642370/168273027-3c7547c0-ff38-4632-8ae2-23a27f18a720.png)
+
+
 ![](https://z9q5c2a5.stackpathcdn.com/wp-content/uploads/2018/09/STM32F407-pinout-datasheet.gif)
 
 # Implementation Diagram
