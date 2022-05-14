@@ -101,9 +101,9 @@ A power supply is an electrical device that supplies electric power to an electr
 [![Code Quality](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Code%20Quality.yml/badge.svg)](https://github.com/JinkalaAnitha/M3_Car-Wiper-Control_Util/actions/workflows/Code%20Quality.yml)
 
 
-![Codiga Badge](https://app.codiga.io/hub/user/github/JinkalaAnitha)
+![Code Quality Score](https://api.codiga.io/project/33343/score/svg)
 
-
+![Code Grade](https://api.codiga.io/project/33343/status/svg)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2460daf820a9478999661b36ae37579f)](https://www.codacy.com/gh/JinkalaAnitha/M3_Car-Wiper-Control_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JinkalaAnitha/M3_Car-Wiper-Control_Util&amp;utm_campaign=Badge_Grade)
 
