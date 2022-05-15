@@ -1,15 +1,25 @@
-# TEST PLAN
-## High level test plan
-| ID | Description | Expected O/P | Actual O/P | Type of test |
-| --- | --- | --- | --- | --- |
-| H_01 | Wiper is moving along the windshield	| PASSED | SUCCESS | Scenario |
-| H_02 | Wiper is comes to rest at the end |	PASSED |	SUCCESS |	Boundary|
 
-## Low level test plan
-| ID | Description | Expected O/P | Actual O/P | Type of test |
-| --- | --- | --- | --- | --- |
-| L_01 | Car turned on	| PASSED | SUCCESS | Scenario |
-| L_02 | Car turned off |	PASSED |	SUCCESS |	Boundary|
+# TEST PLAN
+## HIGH-LEVEL TEST PLAN
+
+|Test ID|	Description|	Exp.i/p|	Exp.o/p|	Actual o/p	|STATUS|
+|-------|------------|---------|---------|--------------|------|
+|HLTP_01	|check if the BUTTTON is pressed	|program execution|	Microcontroller/Engine starts|	LED ON(RED)	|PASS|
+|HLTP_02	|check if the BUTTTON is pressed	|program execution|WIPER starts	|LED ON(BLUE)	|PASS|
+|HLTP_03	|check if the BUTTTON is pressed	|program execution|	WIPER starts	|LED ON(GREEN)|	PASS|
+|HLTP_04  |check if the BUTTTON is pressed	|program execution|	WIPER starts	|LED ON(ORANGE)|	PASS|
+|HLTP_05	|check if the BUTTTON is pressed	|-	|Microcontroller/Engine stops	|LED TURNED OFF	|PASS|
+
+## LOW-LEVEL TEST PLAN
+
+|Test ID	| Description	| Exp.i/p	| Exp.o/p	| Actual o/p	| STATUS|
+|---------|-------------|---------|---------|-------------|-------|
+|LLTP_01	|check if the BUTTTON is pressed|	program execution|	Microcontroller/Engine starts	|LED ON(RED)	|PASS|
+|LLTP_02	|check if the BUTTTON is pressed again|	program execution	|WIPER starts and speed of wiper is slow|	LED ON(BLUE)	|PASS|
+|LLTP_03	|check if the BUTTTON is pressed again|	program execution	|WIPER starts and speed of wiper is moderate|	LED ON(GREEN)|	PASS|
+|LLTP_04	|check if the BUTTTON is pressed again|	program execution	|WIPER starts and speed of wiper is good	|LED ON(ORANGE)|	PASS|
+|LLTP_05	|check if the BUTTTON is pressed again|	-	|Microcontroller/Engine stops|	LED TURNED OFF|	PASS|
+
 
 # Output
 ## The Green Led ON
