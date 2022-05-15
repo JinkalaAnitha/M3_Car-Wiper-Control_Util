@@ -19,13 +19,6 @@
 
    ![Wiper Turn OFF](https://user-images.githubusercontent.com/101356849/168423577-4510435f-c05c-4339-9ffc-789f733b6651.jpg)
 
-## The Button Pressed for Fourth Time
-* The all LEDs turned ON at a time
-
- ![image-asset-removebg-preview](https://user-images.githubusercontent.com/101356849/168424512-d364bb22-2542-4f6a-bcbf-9e2c2eab98c2.jpg)
-
-
-
 
 
 
